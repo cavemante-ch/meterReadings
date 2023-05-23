@@ -17,15 +17,17 @@ class SamsaraApi:
     def get_all_truck_data(self):
 
         all_data = handle_pagination(self.BASE_URL, self.headers)
-        formatted_data = all_data
+        formatted_data = clean_samsara_data(all_data)
 
         with open('test.json', 'w') as f:
             json.dump(formatted_data, f, indent=4)
 
-    def get_single_truck(self, vehicleId):
-        res = requests.get(self.BASE_URL + vehicleId, headers=self.headers)
+        return formatted_data
 
-        print(res.json())
+    def get_single_truck(self, vehicleId):
+        res = requests.get(self.GET_VEHICLE_URL + vehicleId, headers=self.headers)
+
+        return res.json()
 
     def get_all_ids(self):
         with open('samsara_data.json', 'r') as f:
@@ -36,6 +38,3 @@ class SamsaraApi:
             ids.append(i['id'])
 
         return ids
-
-a = SamsaraApi()
-a.get_single_truck("1M1AW07Y8GM078351")

@@ -1,4 +1,5 @@
 import requests
+import json
 
 def handle_pagination(URL, headers):
     all_data = []  # Store all the data from all pages
@@ -50,6 +51,8 @@ def clean_samsara_data(data):
                 for sub_key, sub_value in value.items():
                     if sub_key not in dictionary[key]:
                         dictionary[key][sub_key] = sub_value
+    with open('samsara_raw.json', 'w') as f:
+            json.dump(data, f, indent=4)
 
     for truck in data: 
         return_data.append({
@@ -58,9 +61,9 @@ def clean_samsara_data(data):
             'samsara.serial': truck['externalIds']['samsara.serial'],
             'samsara.vin': truck['externalIds']['samsara.vin'],
             'obd_time': truck["obdOdometerMeters"]["time"],
-            'obd_value': truck["obdOdometerMeters"]["value"],
+            'obd_value': int(truck["obdOdometerMeters"]["value"]*0.000621371192),
             'gps_time': truck["gpsOdometerMeters"]["time"],
-            'gps_value': truck["gpsOdometerMeters"]["value"]
+            'gps_value': int(truck["gpsOdometerMeters"]["value"]*0.000621371192)
         })
 
     return return_data

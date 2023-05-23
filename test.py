@@ -1,16 +1,7 @@
-import json
+from samsara import SamsaraApi
+from tmw import TmwApi
 
-with open('test.json', 'r') as f:
-    a = json.load(f)
+samsara_client = SamsaraApi()
+tmw_client = TmwApi()
 
-with open('samsara_data.json', 'r') as f:
-    b = json.load(f)
-
-for i in a:
-    found = False
-    for j in b:
-        if i["SerialNo"] == j["samsara.vin"]:
-            found = True
-            break
-    if not found:
-        print('ERRORRRRRR at ' + i['SerialNo'])
+print('WORKING')
