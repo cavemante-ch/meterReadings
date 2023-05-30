@@ -13,6 +13,7 @@ def handle_pagination(URL, headers):
         res = requests.get(URL, headers=headers, params=params)
         res_data = res.json()
         print(params['after'])
+        print(res_data)
         print(res_data['pagination']['hasNextPage'])
 
         all_data.extend(res_data['data'])
