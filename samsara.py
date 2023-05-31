@@ -1,14 +1,13 @@
 from helper_functions import handle_pagination, clean_samsara_data
 import json
 import requests
-from dotenv import dotenv_values
 
 class SamsaraApi:
 
     def __init__(self):
         self.BASE_URL = "https://api.samsara.com/fleet/vehicles/stats"
         self.GET_VEHICLE_URL = "https://api.samsara.com/fleet/vehicles/"
-        self.API_TOKEN = dotenv_values('.env')['SAMSARA_API_TOKEN']
+        self.API_TOKEN = "Bearer samsara_api_kvh6u7n9BRRwtS3s2gqIdpigYX6LuK"
         self.headers = {
             "Authorization": self.API_TOKEN,
             "Content-type": "application/json"

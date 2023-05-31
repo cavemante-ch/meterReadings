@@ -2,7 +2,6 @@ import http.client
 import urllib.parse
 import json
 import base64
-from dotenv import dotenv_values
 
 def post_new_data(id, Reading, ReadDate):
     # Prepare the request data
@@ -19,8 +18,8 @@ def post_new_data(id, Reading, ReadDate):
     port = 443
     
     # Prepare the request headers
-    username = dotenv_values('.env')['TMW_USERNAME']
-    password = dotenv_values('.env')['TMW_PASSWORD']
+    username = "apiauth"
+    password = "%s5znmM9qZRh%*"
     headers = {
         'Authorization': 'Basic ' + base64.b64encode((username + ':' + password).encode()).decode(),
         'Content-Type': 'application/json'

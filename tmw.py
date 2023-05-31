@@ -1,4 +1,3 @@
-from dotenv import dotenv_values
 import json
 import requests
 import base64
@@ -9,8 +8,8 @@ class TmwApi:
     def __init__(self):
         self.BASE_URL = 'https://trc.tmwcloud.com/AMSApp/Integration/System/Unit'
         self.POST_URL = 'https://trc.tmwcloud.com/AMSApp/Integration/Mobile/MeterReading'
-        self.username = dotenv_values('.env')['TMW_USERNAME']
-        self.password = dotenv_values('.env')['TMW_PASSWORD']
+        self.username = "apiauth"
+        self.password = "%s5znmM9qZRh%*"
         self.headers = {
         'Authorization': 'Basic ' + base64.b64encode((self.username + ':' + self.password).encode()).decode(),
         'Content-Type': 'application/json'
