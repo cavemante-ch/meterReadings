@@ -4,6 +4,7 @@ from tmw import TmwApi
 import json
 import sys
 import datetime
+from posttest import post_new_data
 
 samsara_client = SamsaraApi()
 tmw_client = TmwApi()
@@ -35,7 +36,8 @@ with open('test.json', 'w') as f:
     json.dump(meter_data, f, indent=4)
 
 for meter_reading in meter_data:
-    a = tmw_client.post_new_data(meter_reading["UnitNumber"], meter_reading["MeterType"], meter_reading["Reading"], meter_reading["ReadDate"])
+    print(f'posting: {meter_reading["UnitNumber"]}')
+    a = post_new_data(meter_reading["UnitNumber"], meter_reading["Reading"], meter_reading["ReadDate"])
     if a[0] == 500:
         with open('output.log', 'a') as f:
             f.write(f'TMW POST 500 ERROR: {a[1]} \n')

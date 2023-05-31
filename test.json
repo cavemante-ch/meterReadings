@@ -8,8 +8,8 @@
     {
         "UnitNumber": "15102",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:29Z",
-        "Reading": 824885
+        "ReadDate": "2023-05-30T19:48:07Z",
+        "Reading": 825302
     },
     {
         "UnitNumber": "1601",
@@ -26,32 +26,32 @@
     {
         "UnitNumber": "1603",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:13Z",
-        "Reading": 935601
+        "ReadDate": "2023-05-31T15:43:56Z",
+        "Reading": 935967
     },
     {
         "UnitNumber": "1604",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:16Z",
-        "Reading": 824101
+        "ReadDate": "2023-05-31T15:18:57Z",
+        "Reading": 824636
     },
     {
         "UnitNumber": "1605",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T11:50:34Z",
-        "Reading": 1008504
+        "ReadDate": "2023-05-31T12:57:14Z",
+        "Reading": 1008888
     },
     {
         "UnitNumber": "1606",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T14:58:56Z",
-        "Reading": 895882
+        "ReadDate": "2023-05-31T16:29:06Z",
+        "Reading": 896255
     },
     {
         "UnitNumber": "1607",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:50:20Z",
-        "Reading": 605413
+        "ReadDate": "2023-05-31T15:57:00Z",
+        "Reading": 605744
     },
     {
         "UnitNumber": "1608",
@@ -62,20 +62,20 @@
     {
         "UnitNumber": "1609",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T11:53:55Z",
-        "Reading": 656157
+        "ReadDate": "2023-05-31T16:18:49Z",
+        "Reading": 656178
     },
     {
         "UnitNumber": "1610",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:54:15Z",
-        "Reading": 800204
+        "ReadDate": "2023-05-31T16:32:10Z",
+        "Reading": 800277
     },
     {
         "UnitNumber": "16101",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:13Z",
-        "Reading": 942699
+        "ReadDate": "2023-05-31T16:47:48Z",
+        "Reading": 943480
     },
     {
         "UnitNumber": "16102",
@@ -86,20 +86,20 @@
     {
         "UnitNumber": "16103",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T14:40:31Z",
-        "Reading": 850510
+        "ReadDate": "2023-05-31T15:59:50Z",
+        "Reading": 850866
     },
     {
         "UnitNumber": "16104",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T04:42:12Z",
-        "Reading": 1112360
+        "ReadDate": "2023-05-31T12:29:36Z",
+        "Reading": 1112522
     },
     {
         "UnitNumber": "16105",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:49:09Z",
-        "Reading": 826515
+        "ReadDate": "2023-05-31T16:47:35Z",
+        "Reading": 827414
     },
     {
         "UnitNumber": "16106",
@@ -110,8 +110,8 @@
     {
         "UnitNumber": "16107",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T10:51:57Z",
-        "Reading": 77145
+        "ReadDate": "2023-05-31T16:47:45Z",
+        "Reading": 77838
     },
     {
         "UnitNumber": "16109",
@@ -134,26 +134,26 @@
     {
         "UnitNumber": "1611",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T20:38:18Z",
-        "Reading": 923382
+        "ReadDate": "2023-05-31T15:47:37Z",
+        "Reading": 923389
     },
     {
         "UnitNumber": "16110",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T20:20:17Z",
-        "Reading": 780924
+        "ReadDate": "2023-05-31T16:47:28Z",
+        "Reading": 781293
     },
     {
         "UnitNumber": "16111",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:30Z",
-        "Reading": 1192889
+        "ReadDate": "2023-05-31T16:47:51Z",
+        "Reading": 1193706
     },
     {
         "UnitNumber": "16113",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-18T16:25:34Z",
-        "Reading": 1106257
+        "ReadDate": "2023-05-31T16:29:42Z",
+        "Reading": 1106466
     },
     {
         "UnitNumber": "16114",
@@ -170,20 +170,20 @@
     {
         "UnitNumber": "16116",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:25Z",
-        "Reading": 897338
+        "ReadDate": "2023-05-30T22:01:47Z",
+        "Reading": 897534
     },
     {
         "UnitNumber": "16117",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-25T15:57:42Z",
-        "Reading": 879812
+        "ReadDate": "2023-05-31T16:47:35Z",
+        "Reading": 880393
     },
     {
         "UnitNumber": "16118",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T03:19:25Z",
-        "Reading": 763042
+        "ReadDate": "2023-05-31T15:49:21Z",
+        "Reading": 763049
     },
     {
         "UnitNumber": "16119",
@@ -194,44 +194,44 @@
     {
         "UnitNumber": "1612",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T21:08:01Z",
-        "Reading": 687916
+        "ReadDate": "2023-05-31T12:05:36Z",
+        "Reading": 687969
     },
     {
         "UnitNumber": "16120",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:35Z",
-        "Reading": 780371
+        "ReadDate": "2023-05-31T16:07:57Z",
+        "Reading": 780723
     },
     {
         "UnitNumber": "1613",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T17:17:29Z",
-        "Reading": 882479
+        "ReadDate": "2023-05-31T16:39:53Z",
+        "Reading": 882521
     },
     {
         "UnitNumber": "1614",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:23Z",
-        "Reading": 534160
+        "ReadDate": "2023-05-31T14:25:39Z",
+        "Reading": 534361
     },
     {
         "UnitNumber": "1615",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T11:00:37Z",
-        "Reading": 809976
+        "ReadDate": "2023-05-31T16:47:28Z",
+        "Reading": 810497
     },
     {
         "UnitNumber": "1616",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T07:33:28Z",
-        "Reading": 1073542
+        "ReadDate": "2023-05-31T15:15:30Z",
+        "Reading": 1073929
     },
     {
         "UnitNumber": "1617",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T09:22:27Z",
-        "Reading": 949712
+        "ReadDate": "2023-05-31T08:35:45Z",
+        "Reading": 949817
     },
     {
         "UnitNumber": "1617",
@@ -242,20 +242,20 @@
     {
         "UnitNumber": "1618",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T10:14:30Z",
-        "Reading": 937885
+        "ReadDate": "2023-05-31T02:28:49Z",
+        "Reading": 937919
     },
     {
         "UnitNumber": "1619",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T20:06:16Z",
-        "Reading": 594249
+        "ReadDate": "2023-05-31T16:47:35Z",
+        "Reading": 594442
     },
     {
         "UnitNumber": "1620",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-27T07:44:45Z",
-        "Reading": 651754
+        "ReadDate": "2023-05-31T04:44:42Z",
+        "Reading": 651767
     },
     {
         "UnitNumber": "16202",
@@ -266,13 +266,13 @@
     {
         "UnitNumber": "16203",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T09:46:45Z",
-        "Reading": 1112229
+        "ReadDate": "2023-05-31T16:45:29Z",
+        "Reading": 1112568
     },
     {
         "UnitNumber": "16204",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-24T18:06:49Z",
+        "ReadDate": "2023-05-30T21:27:37Z",
         "Reading": 1027849
     },
     {
@@ -308,13 +308,13 @@
     {
         "UnitNumber": "16211",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T18:10:12Z",
-        "Reading": 1072125
+        "ReadDate": "2023-05-31T16:47:39Z",
+        "Reading": 1072322
     },
     {
         "UnitNumber": "16213",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-24T12:51:17Z",
+        "ReadDate": "2023-05-31T10:18:32Z",
         "Reading": 722629
     },
     {
@@ -326,13 +326,13 @@
     {
         "UnitNumber": "16216",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:23Z",
-        "Reading": 832836
+        "ReadDate": "2023-05-31T16:35:11Z",
+        "Reading": 833270
     },
     {
         "UnitNumber": "16217",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-04-23T14:10:56Z",
+        "ReadDate": "2023-05-30T17:56:33Z",
         "Reading": 963533
     },
     {
@@ -350,8 +350,8 @@
     {
         "UnitNumber": "1622",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T06:53:24Z",
-        "Reading": 874913
+        "ReadDate": "2023-05-31T06:59:34Z",
+        "Reading": 875161
     },
     {
         "UnitNumber": "16221",
@@ -368,49 +368,49 @@
     {
         "UnitNumber": "16223",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T08:55:35Z",
-        "Reading": 836511
+        "ReadDate": "2023-05-31T08:58:15Z",
+        "Reading": 836703
     },
     {
         "UnitNumber": "16224",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T06:19:41Z",
-        "Reading": 1000949
+        "ReadDate": "2023-05-31T06:16:49Z",
+        "Reading": 1001142
     },
     {
         "UnitNumber": "16225",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T01:27:31Z",
-        "Reading": 1062104
+        "ReadDate": "2023-05-31T10:35:51Z",
+        "Reading": 1062553
     },
     {
         "UnitNumber": "16227",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:40:34Z",
-        "Reading": 810858
+        "ReadDate": "2023-05-31T16:47:42Z",
+        "Reading": 811373
     },
     {
         "UnitNumber": "16229",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-27T21:09:30Z",
+        "ReadDate": "2023-05-31T00:35:34Z",
         "Reading": 891412
     },
     {
         "UnitNumber": "1623",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:39Z",
-        "Reading": 971312
+        "ReadDate": "2023-05-31T14:53:32Z",
+        "Reading": 971798
     },
     {
         "UnitNumber": "16230",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:13Z",
-        "Reading": 1097417
+        "ReadDate": "2023-05-31T16:47:27Z",
+        "Reading": 1098325
     },
     {
         "UnitNumber": "16231",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T15:27:27Z",
+        "ReadDate": "2023-05-31T10:38:53Z",
         "Reading": 981529
     },
     {
@@ -422,20 +422,20 @@
     {
         "UnitNumber": "16233",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T10:19:17Z",
-        "Reading": 986555
+        "ReadDate": "2023-05-31T10:27:22Z",
+        "Reading": 986936
     },
     {
         "UnitNumber": "16234",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T08:44:22Z",
-        "Reading": 746785
+        "ReadDate": "2023-05-31T08:33:18Z",
+        "Reading": 746992
     },
     {
         "UnitNumber": "16235",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:37Z",
-        "Reading": 1006632
+        "ReadDate": "2023-05-30T13:12:12Z",
+        "Reading": 1006634
     },
     {
         "UnitNumber": "16236",
@@ -446,8 +446,8 @@
     {
         "UnitNumber": "16237",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T00:58:47Z",
-        "Reading": 922114
+        "ReadDate": "2023-05-31T15:29:18Z",
+        "Reading": 922392
     },
     {
         "UnitNumber": "16238",
@@ -464,20 +464,20 @@
     {
         "UnitNumber": "16239",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T21:08:39Z",
-        "Reading": 21056
+        "ReadDate": "2023-05-31T16:47:30Z",
+        "Reading": 21465
     },
     {
         "UnitNumber": "1624",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T18:54:22Z",
+        "ReadDate": "2023-05-31T14:49:08Z",
         "Reading": 863579
     },
     {
         "UnitNumber": "16241",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:37Z",
-        "Reading": 855302
+        "ReadDate": "2023-05-31T14:10:47Z",
+        "Reading": 856291
     },
     {
         "UnitNumber": "16242",
@@ -488,14 +488,14 @@
     {
         "UnitNumber": "1625",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T09:46:14Z",
-        "Reading": 962753
+        "ReadDate": "2023-05-31T16:47:33Z",
+        "Reading": 962984
     },
     {
         "UnitNumber": "1626",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T06:13:49Z",
-        "Reading": 973120
+        "ReadDate": "2023-05-31T16:36:57Z",
+        "Reading": 973331
     },
     {
         "UnitNumber": "1629",
@@ -512,26 +512,26 @@
     {
         "UnitNumber": "1702",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T09:55:02Z",
-        "Reading": 438320
+        "ReadDate": "2023-05-31T10:01:06Z",
+        "Reading": 438489
     },
     {
         "UnitNumber": "1703",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T17:17:56Z",
-        "Reading": 610639
+        "ReadDate": "2023-05-31T14:22:39Z",
+        "Reading": 610640
     },
     {
         "UnitNumber": "1704",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T03:32:51Z",
-        "Reading": 555174
+        "ReadDate": "2023-05-31T02:54:01Z",
+        "Reading": 555184
     },
     {
         "UnitNumber": "1705",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T07:38:49Z",
-        "Reading": 529303
+        "ReadDate": "2023-05-31T08:26:54Z",
+        "Reading": 529483
     },
     {
         "UnitNumber": "170561",
@@ -548,80 +548,80 @@
     {
         "UnitNumber": "170561",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T18:21:18Z",
-        "Reading": 236978
+        "ReadDate": "2023-05-30T16:47:11Z",
+        "Reading": 236979
     },
     {
         "UnitNumber": "1706",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T04:10:18Z",
-        "Reading": 469496
+        "ReadDate": "2023-05-31T08:24:52Z",
+        "Reading": 469518
     },
     {
         "UnitNumber": "1708",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T10:19:30Z",
-        "Reading": 443649
+        "ReadDate": "2023-05-31T13:46:02Z",
+        "Reading": 443667
     },
     {
         "UnitNumber": "1709",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T20:00:51Z",
-        "Reading": 670114
+        "ReadDate": "2023-05-31T09:01:56Z",
+        "Reading": 670126
     },
     {
         "UnitNumber": "1710",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T04:48:22Z",
-        "Reading": 398187
+        "ReadDate": "2023-05-31T07:31:02Z",
+        "Reading": 398208
     },
     {
         "UnitNumber": "1711",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T08:19:24Z",
-        "Reading": 533628
+        "ReadDate": "2023-05-31T14:30:05Z",
+        "Reading": 533703
     },
     {
         "UnitNumber": "1712",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T08:59:22Z",
-        "Reading": 459054
+        "ReadDate": "2023-05-31T08:37:05Z",
+        "Reading": 459092
     },
     {
         "UnitNumber": "1713",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T08:44:11Z",
-        "Reading": 458942
+        "ReadDate": "2023-05-31T06:55:11Z",
+        "Reading": 458978
     },
     {
         "UnitNumber": "1714",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T03:52:35Z",
-        "Reading": 325394
+        "ReadDate": "2023-05-31T10:16:10Z",
+        "Reading": 325434
     },
     {
         "UnitNumber": "1715",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T07:10:48Z",
-        "Reading": 410612
+        "ReadDate": "2023-05-31T10:01:03Z",
+        "Reading": 410620
     },
     {
         "UnitNumber": "1716",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:40Z",
-        "Reading": 506224
+        "ReadDate": "2023-05-31T13:37:27Z",
+        "Reading": 506417
     },
     {
         "UnitNumber": "1717",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T09:32:12Z",
-        "Reading": 344988
+        "ReadDate": "2023-05-31T09:30:07Z",
+        "Reading": 345189
     },
     {
         "UnitNumber": "1718",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T06:46:58Z",
-        "Reading": 665134
+        "ReadDate": "2023-05-31T06:55:21Z",
+        "Reading": 665422
     },
     {
         "UnitNumber": "1719",
@@ -632,31 +632,31 @@
     {
         "UnitNumber": "17201",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T21:37:22Z",
-        "Reading": 1121129
+        "ReadDate": "2023-05-31T15:59:54Z",
+        "Reading": 1121379
     },
     {
         "UnitNumber": "17202",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T12:26:14Z",
-        "Reading": 928638
+        "ReadDate": "2023-05-31T12:30:33Z",
+        "Reading": 928857
     },
     {
         "UnitNumber": "17203",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:08:26Z",
-        "Reading": 938853
+        "ReadDate": "2023-05-31T13:03:20Z",
+        "Reading": 939145
     },
     {
         "UnitNumber": "17204",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T14:36:25Z",
-        "Reading": 1011156
+        "ReadDate": "2023-05-31T16:47:39Z",
+        "Reading": 1011485
     },
     {
         "UnitNumber": "17205",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T14:30:35Z",
+        "ReadDate": "2023-05-30T16:27:13Z",
         "Reading": 978649
     },
     {
@@ -674,38 +674,38 @@
     {
         "UnitNumber": "17209",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T13:34:28Z",
-        "Reading": 981157
+        "ReadDate": "2023-05-31T13:44:16Z",
+        "Reading": 981480
     },
     {
         "UnitNumber": "1721",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T07:54:32Z",
-        "Reading": 540756
+        "ReadDate": "2023-05-31T07:58:14Z",
+        "Reading": 541187
     },
     {
         "UnitNumber": "17210",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T11:28:30Z",
-        "Reading": 881200
+        "ReadDate": "2023-05-31T16:19:40Z",
+        "Reading": 881205
     },
     {
         "UnitNumber": "1722",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T10:17:18Z",
-        "Reading": 886214
+        "ReadDate": "2023-05-31T16:47:45Z",
+        "Reading": 886477
     },
     {
         "UnitNumber": "1723",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:18Z",
-        "Reading": 668906
+        "ReadDate": "2023-05-31T16:47:31Z",
+        "Reading": 669289
     },
     {
         "UnitNumber": "1724",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T13:59:39Z",
-        "Reading": 770971
+        "ReadDate": "2023-05-31T15:32:24Z",
+        "Reading": 771194
     },
     {
         "UnitNumber": "18101",
@@ -716,68 +716,68 @@
     {
         "UnitNumber": "18102",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:13Z",
-        "Reading": 493595
+        "ReadDate": "2023-05-31T16:13:58Z",
+        "Reading": 494645
     },
     {
         "UnitNumber": "18103",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T15:43:08Z",
-        "Reading": 452039
+        "ReadDate": "2023-05-31T15:20:01Z",
+        "Reading": 452480
     },
     {
         "UnitNumber": "18104",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:27:01Z",
-        "Reading": 580379
+        "ReadDate": "2023-05-30T18:56:59Z",
+        "Reading": 580385
     },
     {
         "UnitNumber": "18105",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:14Z",
-        "Reading": 461198
+        "ReadDate": "2023-05-31T14:28:04Z",
+        "Reading": 461614
     },
     {
         "UnitNumber": "18201",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-23T18:03:02Z",
-        "Reading": 805467
+        "ReadDate": "2023-05-31T16:47:48Z",
+        "Reading": 805504
     },
     {
         "UnitNumber": "18202",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-23T19:31:23Z",
-        "Reading": 888619
+        "ReadDate": "2023-05-30T22:03:27Z",
+        "Reading": 889104
     },
     {
         "UnitNumber": "18203",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T15:30:03Z",
-        "Reading": 1040378
+        "ReadDate": "2023-05-31T15:07:33Z",
+        "Reading": 1040737
     },
     {
         "UnitNumber": "18204",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T12:44:39Z",
-        "Reading": 814768
+        "ReadDate": "2023-05-31T15:15:12Z",
+        "Reading": 815042
     },
     {
         "UnitNumber": "18206",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:17:09Z",
-        "Reading": 855546
+        "ReadDate": "2023-05-31T16:47:32Z",
+        "Reading": 856271
     },
     {
         "UnitNumber": "18207",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:31Z",
-        "Reading": 1088088
+        "ReadDate": "2023-05-31T16:47:35Z",
+        "Reading": 1088834
     },
     {
         "UnitNumber": "1904",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:12Z",
-        "Reading": 536444
+        "ReadDate": "2023-05-31T15:07:28Z",
+        "Reading": 536946
     },
     {
         "UnitNumber": "19101",
@@ -788,26 +788,26 @@
     {
         "UnitNumber": "19101",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T13:18:27Z",
-        "Reading": 672125
+        "ReadDate": "2023-05-31T16:47:42Z",
+        "Reading": 672641
     },
     {
         "UnitNumber": "19102",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T04:48:00Z",
-        "Reading": 813626
+        "ReadDate": "2023-05-31T05:10:34Z",
+        "Reading": 813842
     },
     {
         "UnitNumber": "19103",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:16Z",
-        "Reading": 896756
+        "ReadDate": "2023-05-31T15:58:51Z",
+        "Reading": 897257
     },
     {
         "UnitNumber": "19104",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T09:17:45Z",
-        "Reading": 834187
+        "ReadDate": "2023-05-31T11:55:44Z",
+        "Reading": 834365
     },
     {
         "UnitNumber": "19105",
@@ -818,50 +818,50 @@
     {
         "UnitNumber": "19106",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T10:42:37Z",
-        "Reading": 680785
+        "ReadDate": "2023-05-31T10:02:32Z",
+        "Reading": 681176
     },
     {
         "UnitNumber": "19107",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T21:32:14Z",
+        "ReadDate": "2023-05-31T12:19:47Z",
         "Reading": 512371
     },
     {
         "UnitNumber": "19108",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T14:46:44Z",
+        "ReadDate": "2023-05-31T00:14:22Z",
         "Reading": 656276
     },
     {
         "UnitNumber": "19109",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T01:06:29Z",
-        "Reading": 637289
+        "ReadDate": "2023-05-31T16:47:44Z",
+        "Reading": 638022
     },
     {
         "UnitNumber": "19110",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:35:51Z",
-        "Reading": 700792
+        "ReadDate": "2023-05-31T12:53:13Z",
+        "Reading": 701018
     },
     {
         "UnitNumber": "19111",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:24:18Z",
-        "Reading": 595280
+        "ReadDate": "2023-05-31T16:47:45Z",
+        "Reading": 595522
     },
     {
         "UnitNumber": "19112",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-25T23:24:10Z",
+        "ReadDate": "2023-05-31T12:57:08Z",
         "Reading": 590356
     },
     {
         "UnitNumber": "19113",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T14:10:53Z",
-        "Reading": 673505
+        "ReadDate": "2023-05-31T15:12:35Z",
+        "Reading": 673770
     },
     {
         "UnitNumber": "19114",
@@ -872,20 +872,20 @@
     {
         "UnitNumber": "19115",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T21:00:09Z",
-        "Reading": 694200
+        "ReadDate": "2023-05-31T16:47:47Z",
+        "Reading": 694496
     },
     {
         "UnitNumber": "19116",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-25T13:51:53Z",
+        "ReadDate": "2023-05-31T12:33:23Z",
         "Reading": 768509
     },
     {
         "UnitNumber": "19117",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:15Z",
-        "Reading": 676479
+        "ReadDate": "2023-05-31T16:47:51Z",
+        "Reading": 677481
     },
     {
         "UnitNumber": "19118",
@@ -896,8 +896,8 @@
     {
         "UnitNumber": "19119",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:25Z",
-        "Reading": 605162
+        "ReadDate": "2023-05-31T16:47:28Z",
+        "Reading": 605943
     },
     {
         "UnitNumber": "19120",
@@ -908,8 +908,8 @@
     {
         "UnitNumber": "19121",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:52:08Z",
-        "Reading": 747167
+        "ReadDate": "2023-05-31T16:47:45Z",
+        "Reading": 747908
     },
     {
         "UnitNumber": "19122",
@@ -920,8 +920,8 @@
     {
         "UnitNumber": "19123",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:50Z",
-        "Reading": 1016376
+        "ReadDate": "2023-05-31T16:45:36Z",
+        "Reading": 1016763
     },
     {
         "UnitNumber": "19124",
@@ -932,20 +932,20 @@
     {
         "UnitNumber": "19125",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T07:43:56Z",
-        "Reading": 621142
+        "ReadDate": "2023-05-31T09:08:55Z",
+        "Reading": 621509
     },
     {
         "UnitNumber": "19126",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-27T10:29:31Z",
-        "Reading": 755841
+        "ReadDate": "2023-05-31T16:47:26Z",
+        "Reading": 756254
     },
     {
         "UnitNumber": "19127",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:41Z",
-        "Reading": 736223
+        "ReadDate": "2023-05-31T16:47:36Z",
+        "Reading": 737114
     },
     {
         "UnitNumber": "19128",
@@ -956,20 +956,20 @@
     {
         "UnitNumber": "19129",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T08:17:12Z",
-        "Reading": 860462
+        "ReadDate": "2023-05-31T16:47:38Z",
+        "Reading": 860897
     },
     {
         "UnitNumber": "19130",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T15:19:48Z",
-        "Reading": 753553
+        "ReadDate": "2023-05-31T15:14:37Z",
+        "Reading": 754019
     },
     {
         "UnitNumber": "19131",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T05:16:03Z",
-        "Reading": 649635
+        "ReadDate": "2023-05-31T08:09:28Z",
+        "Reading": 649983
     },
     {
         "UnitNumber": "19132",
@@ -980,8 +980,8 @@
     {
         "UnitNumber": "19133",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:13Z",
-        "Reading": 656048
+        "ReadDate": "2023-05-31T16:47:51Z",
+        "Reading": 656702
     },
     {
         "UnitNumber": "19134",
@@ -998,8 +998,8 @@
     {
         "UnitNumber": "19137",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T08:18:02Z",
-        "Reading": 577066
+        "ReadDate": "2023-05-31T08:29:10Z",
+        "Reading": 577270
     },
     {
         "UnitNumber": "19138",
@@ -1010,8 +1010,8 @@
     {
         "UnitNumber": "19139",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T12:30:13Z",
-        "Reading": 576831
+        "ReadDate": "2023-05-31T11:55:35Z",
+        "Reading": 577255
     },
     {
         "UnitNumber": "19140",
@@ -1022,98 +1022,98 @@
     {
         "UnitNumber": "19141",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T20:59:37Z",
-        "Reading": 497981
+        "ReadDate": "2023-05-31T14:25:55Z",
+        "Reading": 498248
     },
     {
         "UnitNumber": "19142",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-25T14:41:34Z",
-        "Reading": 453910
+        "ReadDate": "2023-05-31T01:41:58Z",
+        "Reading": 454154
     },
     {
         "UnitNumber": "19143",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:40Z",
-        "Reading": 784397
+        "ReadDate": "2023-05-31T16:47:46Z",
+        "Reading": 785322
     },
     {
         "UnitNumber": "19144",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T17:16:10Z",
-        "Reading": 707322
+        "ReadDate": "2023-05-31T16:47:39Z",
+        "Reading": 707816
     },
     {
         "UnitNumber": "19145",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T16:38:15Z",
-        "Reading": 1044032
+        "ReadDate": "2023-05-31T16:47:39Z",
+        "Reading": 1044521
     },
     {
         "UnitNumber": "20018",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T10:25:06Z",
-        "Reading": 297692
+        "ReadDate": "2023-05-31T11:45:03Z",
+        "Reading": 298176
     },
     {
         "UnitNumber": "20020",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T14:01:58Z",
-        "Reading": 261031
+        "ReadDate": "2023-05-31T14:17:52Z",
+        "Reading": 261300
     },
     {
         "UnitNumber": "20021",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T07:32:39Z",
-        "Reading": 195910
+        "ReadDate": "2023-05-31T08:26:30Z",
+        "Reading": 196231
     },
     {
         "UnitNumber": "20022",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T05:12:14Z",
-        "Reading": 240849
+        "ReadDate": "2023-05-31T06:07:53Z",
+        "Reading": 241204
     },
     {
         "UnitNumber": "20023",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T09:09:05Z",
-        "Reading": 269063
+        "ReadDate": "2023-05-31T09:46:26Z",
+        "Reading": 269228
     },
     {
         "UnitNumber": "2003",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:52:48Z",
-        "Reading": 448013
+        "ReadDate": "2023-05-31T13:38:10Z",
+        "Reading": 448285
     },
     {
         "UnitNumber": "2004",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:48:29Z",
-        "Reading": 524558
+        "ReadDate": "2023-05-31T14:05:47Z",
+        "Reading": 525294
     },
     {
         "UnitNumber": "2005",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T07:14:34Z",
-        "Reading": 437231
+        "ReadDate": "2023-05-31T07:59:38Z",
+        "Reading": 437393
     },
     {
         "UnitNumber": "2006",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-27T21:57:18Z",
-        "Reading": 540526
+        "ReadDate": "2023-05-31T16:47:24Z",
+        "Reading": 540591
     },
     {
         "UnitNumber": "2007",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T07:59:58Z",
-        "Reading": 398171
+        "ReadDate": "2023-05-31T16:13:45Z",
+        "Reading": 398531
     },
     {
         "UnitNumber": "2008",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T05:12:27Z",
-        "Reading": 300468
+        "ReadDate": "2023-05-31T05:28:46Z",
+        "Reading": 300753
     },
     {
         "UnitNumber": "2009",
@@ -1124,50 +1124,50 @@
     {
         "UnitNumber": "2010",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T10:19:26Z",
-        "Reading": 209511
+        "ReadDate": "2023-05-31T10:49:41Z",
+        "Reading": 209891
     },
     {
         "UnitNumber": "2011",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-27T09:01:40Z",
-        "Reading": 393562
+        "ReadDate": "2023-05-31T02:25:47Z",
+        "Reading": 393752
     },
     {
         "UnitNumber": "2012",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T07:45:47Z",
-        "Reading": 251111
+        "ReadDate": "2023-05-31T07:44:14Z",
+        "Reading": 251298
     },
     {
         "UnitNumber": "2014",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:20Z",
-        "Reading": 379796
+        "ReadDate": "2023-05-31T16:01:34Z",
+        "Reading": 379973
     },
     {
         "UnitNumber": "2015",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T07:17:00Z",
-        "Reading": 338482
+        "ReadDate": "2023-05-31T08:04:56Z",
+        "Reading": 338774
     },
     {
         "UnitNumber": "2016",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T13:49:09Z",
-        "Reading": 197472
+        "ReadDate": "2023-05-31T14:08:35Z",
+        "Reading": 197664
     },
     {
         "UnitNumber": "2017",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T13:57:07Z",
-        "Reading": 310576
+        "ReadDate": "2023-05-31T14:51:01Z",
+        "Reading": 310858
     },
     {
         "UnitNumber": "20202",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:26Z",
-        "Reading": 273679
+        "ReadDate": "2023-05-31T16:47:31Z",
+        "Reading": 274059
     },
     {
         "UnitNumber": "20203",
@@ -1184,8 +1184,8 @@
     {
         "UnitNumber": "20204",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-25T17:06:21Z",
-        "Reading": 503980
+        "ReadDate": "2023-05-31T16:47:50Z",
+        "Reading": 503983
     },
     {
         "UnitNumber": "20206",
@@ -1196,74 +1196,74 @@
     {
         "UnitNumber": "21001",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:41Z",
-        "Reading": 343509
+        "ReadDate": "2023-05-31T16:24:13Z",
+        "Reading": 344072
     },
     {
         "UnitNumber": "21002",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:31Z",
-        "Reading": 193212
+        "ReadDate": "2023-05-31T15:13:11Z",
+        "Reading": 193455
     },
     {
         "UnitNumber": "21003",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T11:52:42Z",
-        "Reading": 163452
+        "ReadDate": "2023-05-31T13:31:46Z",
+        "Reading": 163647
     },
     {
         "UnitNumber": "21004",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T13:11:23Z",
-        "Reading": 167006
+        "ReadDate": "2023-05-31T14:29:46Z",
+        "Reading": 167222
     },
     {
         "UnitNumber": "21005",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T10:29:52Z",
-        "Reading": 237777
+        "ReadDate": "2023-05-31T09:50:10Z",
+        "Reading": 238011
     },
     {
         "UnitNumber": "21006",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:13Z",
-        "Reading": 220807
+        "ReadDate": "2023-05-31T16:05:15Z",
+        "Reading": 221150
     },
     {
         "UnitNumber": "21007",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T11:53:55Z",
-        "Reading": 169971
+        "ReadDate": "2023-05-31T11:49:39Z",
+        "Reading": 170304
     },
     {
         "UnitNumber": "21008",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-25T17:29:05Z",
+        "ReadDate": "2023-05-31T12:01:00Z",
         "Reading": 246734
     },
     {
         "UnitNumber": "21009",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:38Z",
-        "Reading": 163938
+        "ReadDate": "2023-05-31T16:47:36Z",
+        "Reading": 164164
     },
     {
         "UnitNumber": "21010",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T13:17:29Z",
-        "Reading": 281908
+        "ReadDate": "2023-05-31T16:47:52Z",
+        "Reading": 282451
     },
     {
         "UnitNumber": "21011",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T08:07:18Z",
-        "Reading": 103704
+        "ReadDate": "2023-05-31T12:04:46Z",
+        "Reading": 103945
     },
     {
         "UnitNumber": "21012",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:20Z",
-        "Reading": 97425
+        "ReadDate": "2023-05-31T16:07:23Z",
+        "Reading": 97726
     },
     {
         "UnitNumber": "21013",
@@ -1274,8 +1274,8 @@
     {
         "UnitNumber": "21014",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T11:33:42Z",
-        "Reading": 156231
+        "ReadDate": "2023-05-31T11:51:13Z",
+        "Reading": 156588
     },
     {
         "UnitNumber": "21015",
@@ -1286,86 +1286,86 @@
     {
         "UnitNumber": "21201",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T10:00:52Z",
-        "Reading": 221424
+        "ReadDate": "2023-05-31T10:01:00Z",
+        "Reading": 222005
     },
     {
         "UnitNumber": "21202",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T02:05:02Z",
-        "Reading": 255094
+        "ReadDate": "2023-05-31T16:47:28Z",
+        "Reading": 255572
     },
     {
         "UnitNumber": "22001",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T21:13:11Z",
-        "Reading": 165199
+        "ReadDate": "2023-05-31T16:38:38Z",
+        "Reading": 165404
     },
     {
         "UnitNumber": "22002",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:44:38Z",
-        "Reading": 186162
+        "ReadDate": "2023-05-31T13:29:08Z",
+        "Reading": 186454
     },
     {
         "UnitNumber": "22003",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T00:01:24Z",
-        "Reading": 158540
+        "ReadDate": "2023-05-31T03:46:29Z",
+        "Reading": 158828
     },
     {
         "UnitNumber": "22004",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:53:07Z",
-        "Reading": 185470
+        "ReadDate": "2023-05-31T16:47:47Z",
+        "Reading": 186032
     },
     {
         "UnitNumber": "22005",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T18:52:52Z",
-        "Reading": 155993
+        "ReadDate": "2023-05-31T16:23:13Z",
+        "Reading": 156098
     },
     {
         "UnitNumber": "22006",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T12:43:03Z",
-        "Reading": 145315
+        "ReadDate": "2023-05-31T12:35:15Z",
+        "Reading": 145669
     },
     {
         "UnitNumber": "22007",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T06:03:21Z",
-        "Reading": 150722
+        "ReadDate": "2023-05-31T12:14:42Z",
+        "Reading": 151144
     },
     {
         "UnitNumber": "22201",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T15:15:16Z",
+        "ReadDate": "2023-05-31T16:01:30Z",
         "Reading": 154681
     },
     {
         "UnitNumber": "22202",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T22:10:51Z",
+        "ReadDate": "2023-05-31T16:33:39Z",
         "Reading": 123164
     },
     {
         "UnitNumber": "22203",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T23:43:47Z",
-        "Reading": 274598
+        "ReadDate": "2023-05-31T16:47:43Z",
+        "Reading": 274950
     },
     {
         "UnitNumber": "22204",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:12Z",
-        "Reading": 228718
+        "ReadDate": "2023-05-31T16:33:40Z",
+        "Reading": 229509
     },
     {
         "UnitNumber": "22205",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T20:15:10Z",
-        "Reading": 188330
+        "ReadDate": "2023-05-31T16:47:49Z",
+        "Reading": 188787
     },
     {
         "UnitNumber": "22206",
@@ -1388,80 +1388,80 @@
     {
         "UnitNumber": "22209",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:16:05Z",
-        "Reading": 133098
+        "ReadDate": "2023-05-31T16:47:23Z",
+        "Reading": 133707
     },
     {
         "UnitNumber": "22210",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T00:58:00Z",
-        "Reading": 123460
+        "ReadDate": "2023-05-31T16:47:45Z",
+        "Reading": 123730
     },
     {
         "UnitNumber": "23201",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T23:19:22Z",
-        "Reading": 129147
+        "ReadDate": "2023-05-31T16:47:40Z",
+        "Reading": 129348
     },
     {
         "UnitNumber": "23203",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T19:20:03Z",
-        "Reading": 118346
+        "ReadDate": "2023-05-31T16:47:22Z",
+        "Reading": 118758
     },
     {
         "UnitNumber": "23205",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T16:21:59Z",
-        "Reading": 38124
+        "ReadDate": "2023-05-31T15:59:26Z",
+        "Reading": 38524
     },
     {
         "UnitNumber": "23206",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T04:00:30Z",
-        "Reading": 25054
+        "ReadDate": "2023-05-31T16:38:17Z",
+        "Reading": 25490
     },
     {
         "UnitNumber": "23207",
         "MeterType": "GPSODOMETER",
-        "ReadDate": "2023-05-29T14:51:19Z",
-        "Reading": 61695
+        "ReadDate": "2023-05-31T15:12:42Z",
+        "Reading": 62104
     },
     {
         "UnitNumber": "23208",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T23:40:54Z",
-        "Reading": 75089
+        "ReadDate": "2023-05-31T16:47:26Z",
+        "Reading": 75394
     },
     {
         "UnitNumber": "23209",
         "MeterType": "GPSODOMETER",
-        "ReadDate": "2023-05-30T08:20:32Z",
-        "Reading": 85965
+        "ReadDate": "2023-05-31T16:47:37Z",
+        "Reading": 86228
     },
     {
         "UnitNumber": "23210",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T03:05:45Z",
-        "Reading": 38873
+        "ReadDate": "2023-05-31T12:24:06Z",
+        "Reading": 39115
     },
     {
         "UnitNumber": "23211",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-27T18:55:46Z",
-        "Reading": 21251
+        "ReadDate": "2023-05-31T16:47:40Z",
+        "Reading": 21395
     },
     {
         "UnitNumber": "23212",
         "MeterType": "GPSODOMETER",
-        "ReadDate": "2023-05-29T14:18:50Z",
-        "Reading": 25033
+        "ReadDate": "2023-05-31T13:31:49Z",
+        "Reading": 25238
     },
     {
         "UnitNumber": "23213",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T17:49:10Z",
-        "Reading": 52225
+        "ReadDate": "2023-05-31T16:47:45Z",
+        "Reading": 52699
     },
     {
         "UnitNumber": "238",
@@ -1478,8 +1478,8 @@
     {
         "UnitNumber": "243",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-24T08:06:24Z",
-        "Reading": 1078607
+        "ReadDate": "2023-05-31T16:47:39Z",
+        "Reading": 1078612
     },
     {
         "UnitNumber": "244",
@@ -1514,8 +1514,8 @@
     {
         "UnitNumber": "264",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T02:09:31Z",
-        "Reading": 961473
+        "ReadDate": "2023-05-31T02:40:11Z",
+        "Reading": 961594
     },
     {
         "UnitNumber": "267",
@@ -1526,14 +1526,14 @@
     {
         "UnitNumber": "272",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-27T06:43:38Z",
-        "Reading": 919898
+        "ReadDate": "2023-05-31T06:31:04Z",
+        "Reading": 919938
     },
     {
         "UnitNumber": "274",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T08:23:30Z",
-        "Reading": 720509
+        "ReadDate": "2023-05-31T08:23:55Z",
+        "Reading": 720624
     },
     {
         "UnitNumber": "276",
@@ -1544,8 +1544,8 @@
     {
         "UnitNumber": "277",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T08:48:38Z",
-        "Reading": 745888
+        "ReadDate": "2023-05-31T08:50:30Z",
+        "Reading": 746001
     },
     {
         "UnitNumber": "283",
@@ -1556,8 +1556,8 @@
     {
         "UnitNumber": "284",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-27T04:01:03Z",
-        "Reading": 794072
+        "ReadDate": "2023-05-31T10:08:12Z",
+        "Reading": 794100
     },
     {
         "UnitNumber": "285",
@@ -1568,14 +1568,14 @@
     {
         "UnitNumber": "286",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T01:11:18Z",
-        "Reading": 682358
+        "ReadDate": "2023-05-31T15:25:05Z",
+        "Reading": 682746
     },
     {
         "UnitNumber": "529",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T09:14:29Z",
-        "Reading": 769203
+        "ReadDate": "2023-05-31T09:10:15Z",
+        "Reading": 769444
     },
     {
         "UnitNumber": "555",
@@ -1586,62 +1586,62 @@
     {
         "UnitNumber": "556",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T09:54:59Z",
-        "Reading": 834163
+        "ReadDate": "2023-05-31T10:59:16Z",
+        "Reading": 834234
     },
     {
         "UnitNumber": "558",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T20:22:05Z",
-        "Reading": 875245
+        "ReadDate": "2023-05-31T12:58:11Z",
+        "Reading": 875247
     },
     {
         "UnitNumber": "560",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:35:27Z",
-        "Reading": 749376
+        "ReadDate": "2023-05-31T16:33:37Z",
+        "Reading": 749823
     },
     {
         "UnitNumber": "561",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T23:27:09Z",
-        "Reading": 905379
+        "ReadDate": "2023-05-31T00:52:21Z",
+        "Reading": 905632
     },
     {
         "UnitNumber": "562",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T17:48:40Z",
-        "Reading": 968087
+        "ReadDate": "2023-05-31T16:47:26Z",
+        "Reading": 968494
     },
     {
         "UnitNumber": "563",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:36Z",
-        "Reading": 843856
+        "ReadDate": "2023-05-31T13:36:49Z",
+        "Reading": 844273
     },
     {
         "UnitNumber": "565",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T19:47:40Z",
-        "Reading": 907784
+        "ReadDate": "2023-05-31T14:32:58Z",
+        "Reading": 907882
     },
     {
         "UnitNumber": "567",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-22T18:30:33Z",
+        "ReadDate": "2023-05-31T14:04:30Z",
         "Reading": 719211
     },
     {
         "UnitNumber": "568",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T23:42:54Z",
-        "Reading": 907245
+        "ReadDate": "2023-05-31T16:47:24Z",
+        "Reading": 907537
     },
     {
         "UnitNumber": "569",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T09:57:57Z",
-        "Reading": 952140
+        "ReadDate": "2023-05-31T16:47:24Z",
+        "Reading": 952217
     },
     {
         "UnitNumber": "570",
@@ -1676,14 +1676,14 @@
     {
         "UnitNumber": "575",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T23:23:38Z",
-        "Reading": 885347
+        "ReadDate": "2023-05-31T08:37:59Z",
+        "Reading": 885642
     },
     {
         "UnitNumber": "577",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-19T02:44:39Z",
-        "Reading": 804990
+        "ReadDate": "2023-05-31T15:22:03Z",
+        "Reading": 804991
     },
     {
         "UnitNumber": "579",
@@ -1700,20 +1700,20 @@
     {
         "UnitNumber": "582",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-25T18:19:36Z",
+        "ReadDate": "2023-05-31T16:23:46Z",
         "Reading": 980930
     },
     {
         "UnitNumber": "583",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T11:49:54Z",
-        "Reading": 990432
+        "ReadDate": "2023-05-31T02:40:57Z",
+        "Reading": 990761
     },
     {
         "UnitNumber": "584",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:21Z",
-        "Reading": 779802
+        "ReadDate": "2023-05-31T16:47:25Z",
+        "Reading": 780688
     },
     {
         "UnitNumber": "586",
@@ -1724,38 +1724,38 @@
     {
         "UnitNumber": "587",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:32Z",
-        "Reading": 865806
+        "ReadDate": "2023-05-31T16:47:40Z",
+        "Reading": 866601
     },
     {
         "UnitNumber": "588",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T02:36:03Z",
-        "Reading": 734052
+        "ReadDate": "2023-05-31T15:45:18Z",
+        "Reading": 734752
     },
     {
         "UnitNumber": "589",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T10:56:11Z",
-        "Reading": 679695
+        "ReadDate": "2023-05-31T10:37:33Z",
+        "Reading": 679918
     },
     {
         "UnitNumber": "590",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:23Z",
-        "Reading": 985765
+        "ReadDate": "2023-05-31T15:46:25Z",
+        "Reading": 986217
     },
     {
         "UnitNumber": "591",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T16:31:00Z",
-        "Reading": 796120
+        "ReadDate": "2023-05-31T16:47:35Z",
+        "Reading": 796282
     },
     {
         "UnitNumber": "592",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:47:12Z",
-        "Reading": 861919
+        "ReadDate": "2023-05-31T16:47:38Z",
+        "Reading": 862842
     },
     {
         "UnitNumber": "593",
@@ -1772,8 +1772,8 @@
     {
         "UnitNumber": "6325",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T19:51:44Z",
-        "Reading": 1244411
+        "ReadDate": "2023-05-31T16:23:45Z",
+        "Reading": 1244413
     },
     {
         "UnitNumber": "6328",
@@ -1784,20 +1784,20 @@
     {
         "UnitNumber": "6347",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T18:36:50Z",
+        "ReadDate": "2023-05-31T16:47:48Z",
         "Reading": 1558240
     },
     {
         "UnitNumber": "7001",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-27T06:55:35Z",
-        "Reading": 213051
+        "ReadDate": "2023-05-31T03:47:06Z",
+        "Reading": 213280
     },
     {
         "UnitNumber": "7002",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T10:30:47Z",
-        "Reading": 148586
+        "ReadDate": "2023-05-31T10:18:33Z",
+        "Reading": 149021
     },
     {
         "UnitNumber": "7003",
@@ -1814,26 +1814,26 @@
     {
         "UnitNumber": "7004",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T11:07:13Z",
-        "Reading": 213656
+        "ReadDate": "2023-05-31T11:00:47Z",
+        "Reading": 213805
     },
     {
         "UnitNumber": "7005",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:51:02Z",
-        "Reading": 37450
+        "ReadDate": "2023-05-31T13:01:44Z",
+        "Reading": 37721
     },
     {
         "UnitNumber": "7006",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:34:01Z",
+        "ReadDate": "2023-05-30T13:27:53Z",
         "Reading": 284086
     },
     {
         "UnitNumber": "7007",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-24T22:25:05Z",
-        "Reading": 270616
+        "ReadDate": "2023-05-31T15:35:46Z",
+        "Reading": 270628
     },
     {
         "UnitNumber": "7101",
@@ -1844,8 +1844,8 @@
     {
         "UnitNumber": "7102",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T01:07:57Z",
-        "Reading": 444898
+        "ReadDate": "2023-05-31T16:47:25Z",
+        "Reading": 444915
     },
     {
         "UnitNumber": "7103",
@@ -1868,7 +1868,7 @@
     {
         "UnitNumber": "7106",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-10T15:59:41Z",
+        "ReadDate": "2023-05-31T14:19:12Z",
         "Reading": 426303
     },
     {
@@ -1880,14 +1880,14 @@
     {
         "UnitNumber": "7108",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T21:55:48Z",
-        "Reading": 434952
+        "ReadDate": "2023-05-31T16:47:36Z",
+        "Reading": 435224
     },
     {
         "UnitNumber": "7109",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-28T14:26:54Z",
-        "Reading": 444346
+        "ReadDate": "2023-05-31T14:32:03Z",
+        "Reading": 444667
     },
     {
         "UnitNumber": "7110",
@@ -1898,14 +1898,14 @@
     {
         "UnitNumber": "7111",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-15T16:11:58Z",
+        "ReadDate": "2023-05-31T16:13:51Z",
         "Reading": 443515
     },
     {
         "UnitNumber": "7112",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-29T20:52:10Z",
-        "Reading": 455635
+        "ReadDate": "2023-05-31T16:47:48Z",
+        "Reading": 455948
     },
     {
         "UnitNumber": "7113",
@@ -1916,14 +1916,14 @@
     {
         "UnitNumber": "7114",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-10T18:01:00Z",
+        "ReadDate": "2023-05-31T16:19:05Z",
         "Reading": 436252
     },
     {
         "UnitNumber": "812407",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-30T12:55:35Z",
-        "Reading": 506083
+        "ReadDate": "2023-05-31T05:17:24Z",
+        "Reading": 506432
     },
     {
         "UnitNumber": "EXTRA TRUCK",
@@ -1940,8 +1940,8 @@
     {
         "UnitNumber": "EXTRA TRUCK",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T18:21:18Z",
-        "Reading": 236978
+        "ReadDate": "2023-05-30T16:47:11Z",
+        "Reading": 236979
     },
     {
         "UnitNumber": "L/0 - CONTRACTORS TRUCK",
@@ -1958,8 +1958,8 @@
     {
         "UnitNumber": "L/0 - CONTRACTORS TRUCK",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T18:21:18Z",
-        "Reading": 236978
+        "ReadDate": "2023-05-30T16:47:11Z",
+        "Reading": 236979
     },
     {
         "UnitNumber": "RENTAL TRUCK",
@@ -1976,8 +1976,8 @@
     {
         "UnitNumber": "RENTAL TRUCK",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T18:21:18Z",
-        "Reading": 236978
+        "ReadDate": "2023-05-30T16:47:11Z",
+        "Reading": 236979
     },
     {
         "UnitNumber": "XMAS TRUCK",
@@ -1994,7 +1994,7 @@
     {
         "UnitNumber": "XMAS TRUCK",
         "MeterType": "OBDODOMETER",
-        "ReadDate": "2023-05-26T18:21:18Z",
-        "Reading": 236978
+        "ReadDate": "2023-05-30T16:47:11Z",
+        "Reading": 236979
     }
 ]

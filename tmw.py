@@ -40,15 +40,20 @@ class TmwApi:
             "MeterType": metertype
         }
         res = requests.get(self.POST_URL, headers=self.headers, params=params)
+        return res.json()
 
     
-    def post_new_data(self, id, meterType, Reading,ReadDate):
-        params = {
-            "UnitNumber": id,
-            "MeterType": meterType,
-            "Reading": Reading,
-            "ReadDate": ReadDate
+    def post_new_data(self, id, meterType, Reading, ReadDate):
+        self.post_params = {
+            "UnitId": "-1",
+            "UnitNumber": "1601",
+            "MeterType": "ODOMETER",
+            "MeterReading": "1000000",
+            "MeterDate": "2023-03-24T19:11:28Z"
         }
-        res = requests.post(self.POST_URL, headers=self.headers, params=params)
+        res = requests.post(self.POST_URL, headers=self.headers, params=self.post_params)
         return res.status_code, res.json()
+    
+a = TmwApi()
+a.get_meter_reading('1601', 'ODOMETER')
 

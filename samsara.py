@@ -1,7 +1,7 @@
-from dotenv import dotenv_values
 from helper_functions import handle_pagination, clean_samsara_data
 import json
 import requests
+from dotenv import dotenv_values
 
 class SamsaraApi:
 
